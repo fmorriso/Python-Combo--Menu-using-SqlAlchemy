@@ -1,4 +1,6 @@
 # Combo Menu using SqlAlchemy
+The original Combo Menu but with different goals.
+## Goals
 * Replace built-in python ```@DataClass``` with *SqlAlchemy* declarative ORM classes with minimal disruption.
 
 ## History
@@ -20,4 +22,3 @@
 | SqlAlchemy |   2.0.31 |
 | VSCode     |   1.91.1 |
 | PyCharm    | 2024.1.1 |
-## Goals
