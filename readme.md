@@ -2,7 +2,7 @@
 The original Combo Menu but with different goals.
 
 ## Goals
-* 
+
 * Replace built-in python ```@DataClass``` with *SqlAlchemy* declarative ORM classes with minimal disruption.
 
 ## History
